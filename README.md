@@ -49,5 +49,5 @@ O **DER (Diagrama Entidade-Relacionamento)** representa as entidades e os relaci
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/db_projeto.git
+   https://github.com/Paulo-Dongosse/db-para-ecommerce.git
    cd db_projeto
