@@ -4,6 +4,7 @@
 ![Badge Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
 ![Badge Author](https://img.shields.io/badge/Autor-Paulo%20João%20Dongosse-orange)
 
+
 ---
 
 ## 📖 Sobre o Projeto  
